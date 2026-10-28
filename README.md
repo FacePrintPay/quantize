@@ -169,3 +169,5 @@ Several quantization methods are supported. They differ in the resulting model d
   - [#5060 - Q3_K_XS](https://github.com/ggml-org/llama.cpp/pull/5060)
   - [#5196 - 3-bit i-quants](https://github.com/ggml-org/llama.cpp/pull/5196)
   - [quantization tuning](https://github.com/ggml-org/llama.cpp/pull/5320), [another one](https://github.com/ggml-org/llama.cpp/pull/5334), and [another one](https://github.com/ggml-org/llama.cpp/pull/5361)
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=README.md
